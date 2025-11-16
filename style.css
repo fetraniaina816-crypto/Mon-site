@@ -1,0 +1,48 @@
+header {
+  text-align: center;
+  background: linear-gradient(90deg,purple,green);
+  margin:0;
+  padding: 20px;
+  color: lightblue;
+  border-radius:10px;
+  font-weight: bold;
+}
+p1 {
+  color: yellow;
+}
+img {
+  width: 150px;
+  margin: 20px auto;
+  display: block;
+  object-fit: cover;
+  height: 150px ;
+  border-radius: 10%;
+  border: 3px solid purple;
+  height: auto;
+  margin-top: auto;
+
+}
+h2 {
+  color: blue;
+}
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+ul,li {
+  margin: 20px auto;
+  padding: 0;
+  
+}
+footer{
+ text-align: center;
+ color: black;
+ background-color: lightgray;
+ font-weight: bold;
+ border-radius: 10px;
+}
+body {
+  background-color: black;
+  color: white;
+}
